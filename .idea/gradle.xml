@@ -13,6 +13,31 @@
         </option>
       </GradleProjectSettings>
       <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/laborator-4" />
+        <option name="gradleHome" value="" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/laborator-4" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/laborator-4IClass" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/laborator-4IClass" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/laborator-inClass4" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/laborator-inClass4" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
         <option name="externalProjectPath" value="$PROJECT_DIR$/startGradle" />
         <option name="gradleHome" value="" />
         <option name="modules">

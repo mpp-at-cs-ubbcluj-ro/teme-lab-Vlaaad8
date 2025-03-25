@@ -2,12 +2,10 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <bytecodeTargetLevel>
-      <module name="laborator-3" target="17" />
-      <module name="laborator-3.main" target="17" />
-      <module name="laborator-3.test" target="17" />
-      <module name="startGradle" target="17" />
-      <module name="startGradle.main" target="17" />
-      <module name="startGradle.test" target="17" />
+      <module name="laborator-4" target="17" />
+      <module name="laborator-4IClass" target="17" />
+      <module name="laborator-4IClass.main" target="17" />
+      <module name="laborator-4IClass.test" target="17" />
     </bytecodeTargetLevel>
   </component>
 </project>
